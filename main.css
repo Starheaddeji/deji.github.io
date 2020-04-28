@@ -1,0 +1,126 @@
+body{
+    background: url(starhead.jfif) center; 
+    background-repeat:no-repeat;
+    background-size:100%;
+    background-attachment: fixed;
+
+}
+
+
+
+
+
+#top{
+    padding:  5px 5px 30px;
+    background-color: white;
+    border-radius: 45px;
+    height: 40px;
+    color: black;
+  
+}
+
+#head{
+    display: flex;
+    padding-left: 10px;
+
+}
+
+li{
+    display: inline;
+    color: black;
+    padding: 10px 20px;
+
+
+}
+.pix{
+    padding: 0px 490px
+}
+.form{
+    padding: 0px 250px
+}
+.welcome{
+    text-align: center;
+    font:15px"segoe ui",arial,sans-serif;
+    color: black;
+}
+
+#letgo{
+    background-color: orange;
+    color: black;
+    padding:  1px 1px;
+    border-radius: 40px 40px;
+    hover:blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
